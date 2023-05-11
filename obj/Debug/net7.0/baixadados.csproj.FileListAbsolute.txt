@@ -1,0 +1,17 @@
+C:\Users\SMN\Desktop\baixadados\bin\Debug\net7.0\baixadados.exe
+C:\Users\SMN\Desktop\baixadados\bin\Debug\net7.0\baixadados.deps.json
+C:\Users\SMN\Desktop\baixadados\bin\Debug\net7.0\baixadados.runtimeconfig.json
+C:\Users\SMN\Desktop\baixadados\bin\Debug\net7.0\baixadados.dll
+C:\Users\SMN\Desktop\baixadados\bin\Debug\net7.0\baixadados.pdb
+C:\Users\SMN\Desktop\baixadados\obj\Debug\net7.0\baixadados.csproj.AssemblyReference.cache
+C:\Users\SMN\Desktop\baixadados\obj\Debug\net7.0\baixadados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SMN\Desktop\baixadados\obj\Debug\net7.0\baixadados.AssemblyInfoInputs.cache
+C:\Users\SMN\Desktop\baixadados\obj\Debug\net7.0\baixadados.AssemblyInfo.cs
+C:\Users\SMN\Desktop\baixadados\obj\Debug\net7.0\baixadados.csproj.CoreCompileInputs.cache
+C:\Users\SMN\Desktop\baixadados\obj\Debug\net7.0\baixadados.dll
+C:\Users\SMN\Desktop\baixadados\obj\Debug\net7.0\refint\baixadados.dll
+C:\Users\SMN\Desktop\baixadados\obj\Debug\net7.0\baixadados.pdb
+C:\Users\SMN\Desktop\baixadados\obj\Debug\net7.0\baixadados.genruntimeconfig.cache
+C:\Users\SMN\Desktop\baixadados\obj\Debug\net7.0\ref\baixadados.dll
+C:\Users\SMN\Desktop\baixadados\bin\Debug\net7.0\HtmlAgilityPack.dll
+C:\Users\SMN\Desktop\baixadados\obj\Debug\net7.0\baixadados.csproj.CopyComplete

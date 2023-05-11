@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FxBUR9+/i0sQb0LB2utrZ+azJiQCXCbF+W3xfOMkfA6k97Xd+gY7QkfGu0ndEwvzn2VUM8V4IRwx9r21cop/yA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SMN\\Desktop\\baixadados\\baixadados.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SMN\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}
